@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Codelite
+Section4/.codelite/
